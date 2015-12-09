@@ -1,0 +1,3 @@
+# Glibi
+
+Because OpenGL projects have to start with 'gl' to be cool...

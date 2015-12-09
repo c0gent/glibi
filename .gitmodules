@@ -1,0 +1,24 @@
+[submodule "glibi/Vendor/assimp"]
+    path = glibi/Vendor/assimp
+    url = https://github.com/assimp/assimp.git
+    branch = master
+[submodule "glibi/Vendor/glad"]
+    path = glibi/Vendor/glad
+    url = https://github.com/Dav1dde/glad.git
+    branch = c
+[submodule "glibi/Vendor/glfw"]
+    path = glibi/Vendor/glfw
+    url = https://github.com/glfw/glfw.git
+    branch = master
+[submodule "glibi/Vendor/glm"]
+    path = glibi/Vendor/glm
+    url = https://github.com/g-truc/glm.git
+    branch = master
+[submodule "glibi/Vendor/stb"]
+    path = glibi/Vendor/stb
+    url = https://github.com/nothings/stb.git
+    branch = master
+[submodule "glibi/Vendor/bullet"]
+    path = glibi/Vendor/bullet
+    url = https://github.com/bulletphysics/bullet3.git
+    branch = master
